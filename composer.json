@@ -1,0 +1,12 @@
+{
+    "name": "plmarcelo/dispatcher-php52",
+    "description": "Event dispatcher for PHP 5.2+",
+    "type": "library",
+    "authors": [
+        {
+            "name": "pedro",
+            "email": "plmarcelo@gmail.com"
+        }
+    ],
+    "require": {}
+}
