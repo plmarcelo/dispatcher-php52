@@ -2,6 +2,7 @@
     "name": "plmarcelo/dispatcher-php52",
     "description": "Event dispatcher for PHP 5.2+",
     "type": "library",
+    "version": "1.0.0-php52",
     "authors": [
         {
             "name": "pedro",
