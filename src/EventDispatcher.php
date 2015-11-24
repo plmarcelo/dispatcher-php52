@@ -4,7 +4,7 @@
  * Event dispatcher
  *
  */
-class src_EventDispatcher
+class Mjolnic_EventDispatcher
 {
     public $handlers = array();
     public $emitted = array();
