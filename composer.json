@@ -9,5 +9,7 @@
             "email": "plmarcelo@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.2"
+    }
 }
